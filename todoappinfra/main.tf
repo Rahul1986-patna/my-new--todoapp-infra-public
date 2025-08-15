@@ -1,3 +1,6 @@
+#i am dhondhu no.1
+#kachara code- ye code sirf samajhne ke liye hai
+
 module "resource_group" {
   source                  = "../modules/azurerm_resource_group"
   resource_group_name     = "todoapp-rg"
